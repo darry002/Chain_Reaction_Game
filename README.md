@@ -38,5 +38,6 @@ This project wouldn't have been possible without the collaborative efforts of th
 - [Darrien](https://github.com/darry002)
 - [Dennis Andrew](https://github.com/denni-andr)
 - [Deepesh](https://github.com/deepesh2110160)
-###Contributing
+
+### Contributing
 If you'd like to contribute to the project, feel free to fork the repository and submit pull requests. We welcome contributions in the form of bug fixes, new features, or improvements to the existing codebase.
